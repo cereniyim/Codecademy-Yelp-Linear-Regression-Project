@@ -1,11 +1,1 @@
-# Ceren's Data Science Portfolio
-Repository of my data science projects including
-
-- Code behind my articles on [Medium](https://medium.com/@cereniyim)
-- Machine learning projects
-  - Supervised
-  - Unsupervised
-- Exploratory data analysis projects
-- Codecademy capstone projects
-
-
+As a capstone project for Data Science with Python course on Codecademy, I built a Linear Regression ML Model on Yelp Data based on the restaurant features.
